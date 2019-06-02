@@ -22,7 +22,9 @@ package main
 import (
 	"github.com/mholt/caddy/caddy/caddymain"
 
-	_ "github.com/pzduniak/caddy-basically"
+	_ "github.com/captncraig/caddy-realip"
+	_ "github.com/captncraig/cors/caddy"
+	_ "github.com/pzduniak/caddy-basically/plugin"
 )
 
 func main() {

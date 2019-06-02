@@ -1,6 +1,10 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/bifurcation/mint v0.0.0-20180715133206-93c51c6ce115 h1:fUjoj2bT6dG8LoEe+uNsKk8J+sLkDbQkJnB6Z1F02Bc=
 github.com/bifurcation/mint v0.0.0-20180715133206-93c51c6ce115/go.mod h1:zVt7zX3K/aDCk9Tj+VM7YymsX66ERvzCJzw8rFCX2JU=
+github.com/captncraig/caddy-realip v0.0.0-20170918004412-5dd1f4047d0f h1:nfuHuAA+1J1jrXEIM0t5zEmCK/QWztsIB3ECAmBn4Kc=
+github.com/captncraig/caddy-realip v0.0.0-20170918004412-5dd1f4047d0f/go.mod h1:FDAVVa4GEST826nE+S0cZQb5LLDt6yANh9OvWyh4oEM=
+github.com/captncraig/cors v0.0.0-20190326022215-48080ede89fe h1:y/gNeSdJqMHC+2x8tJ+tgKNFwvPMyWPaXQ6YmBnmh/Y=
+github.com/captncraig/cors v0.0.0-20190326022215-48080ede89fe/go.mod h1:EIlIeMufZ8nqdUhnesledB15xLRl4wIJUppwDLPrdrQ=
 github.com/cenkalti/backoff v2.1.1+incompatible h1:tKJnvO2kl0zmb/jA5UKAt4VoEVw1qxKWjE/Bpp46npY=
 github.com/cenkalti/backoff v2.1.1+incompatible/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
 github.com/cheekybits/genny v0.0.0-20170328200008-9127e812e1e9 h1:a1zrFsLFac2xoM6zG1u72DWJwZG3ayttYLfmLbxVETk=
@@ -51,7 +55,6 @@ github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+W
 github.com/onsi/ginkgo v1.8.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/gomega v1.5.0/go.mod h1:ex+gbHU/CVuBBDIJjb2X0qEXbFg53c61hWP/1CpauHY=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/pzduniak/caddy-basically v0.0.0-20190602194907-d233be7b2e57 h1:HhZKjClOVabi//kuCPt9BOsMxISULQwSphLxf1Faz6k=
 github.com/russross/blackfriday v0.0.0-20170610170232-067529f716f4 h1:S9YlS71UNJIyS61OqGAmLXv3w5zclSidN+qwr80XxKs=
 github.com/russross/blackfriday v0.0.0-20170610170232-067529f716f4/go.mod h1:JO/DiYxRf+HjHt06OyowR9PTA263kcR/rfWxYHBV53g=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
